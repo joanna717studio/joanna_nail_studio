@@ -1,0 +1,9 @@
+# 忽略 node_modules 資料夾
+node_modules/
+
+# 忽略 .env 環境變數檔案
+.env
+
+# 忽略特定副檔名
+*.log
+*.DS_Store
